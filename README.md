@@ -33,7 +33,7 @@
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td align="center">2</td>
+                <td align="center">3</td>
                 <td>Folha de Pagamento</td>
                 <td><a href="https://github.com/rodrigoSilva23/Desafios-Dio/blob/main/Desafios/javaScript/1.Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/visita-Na-Feira.js">Código</a></td>
                 <td align="center">✔️</td>
