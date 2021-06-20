@@ -7,7 +7,7 @@
    <summary><strong>JavaScript</strong></summary>
 <div align="left">
         <!-- Introdução a Programação com JavaScript -->
-        <table border=1 width="100%">
+        <table border=1 >
             <tr>
                 <th colspan="4">Introdução a Programação com JavaScript</th>
             </tr>
